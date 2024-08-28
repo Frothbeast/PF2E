@@ -1,0 +1,105 @@
+Animal Instinct Raging Resistance
+You resist piercing and slashing damage.
+
+Raging Resistance
+Repeated exposure and toughened skin allow you to fend off harm. While raging, you gain resistance equal to 3 + your Constitution modifier to damage types based on your instinct.
+
+Death's Drums
+Your life has been spent challenging death itself, and proximity to that implacable foe only makes your heart beat harder. When you are taking persistent damage or your wounded value is 1 or greater, you gain a +2 circumstance bonus to Fortitude saving throws.
+
+Wall Jump
+You can use your momentum from a jump to propel yourself off a wall. If you’re adjacent to a wall at the end of a jump (whether performing a High Jump, Long Jump, or Leap), you don’t fall as long as your next action is another jump. Furthermore, since your previous jump gives you momentum, you can use High Jump or Long Jump as a single action, but you don’t get to Stride as part of the activity.
+You can use Wall Jump only once in a turn, unless you’re legendary in Athletics, in which case you can use Wall Jump as many times as you can use consecutive jump actions in that turn.
+
+Submission Hold
+Requirements You have a creature grabbed or restrained.
+Your iron grip slowly saps your opponent's strength. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following effects instead of the usual effects.
+Critical Success The target is enfeebled 2 until the end of its next turn and enfeebled 1 for 1 minute.
+Success The target is enfeebled 1 until the end of its next turn.
+
+Friendly Toss
+Requirements You are adjacent to an ally and have one or more hands free.
+You toss your friends around the battlefield. Pick up an adjacent ally of your size or smaller and throw them to an unoccupied space you can see within 30 feet. Their movement doesn't trigger reactions. Your ally ends this movement on their feet and doesn't take damage from the fall. If your ally ends this movement within melee reach of at least one enemy, they can make a melee Strike against an enemy within their reach as a reaction.
+
+Intimidating Prowess
+Prerequisites Strength 16, expert in Intimidation
+In situations where you can physically menace the target when you Coerce or Demoralize, you gain a +1 circumstance bonus to your Intimidation check and you ignore the penalty for not sharing a language. If your Strength score is 20 or higher and you are a master in Intimidation, this bonus increases to +2.
+
+Raging Intimidation
+Your fury fills your foes with fear. While you are raging, your Demoralize and Scare to Death actions (from the Intimidation skill and an Intimidation skill feat, respectively) gain the rage trait, allowing you to use them while raging. As soon as you meet the prerequisites for the skill feats Intimidating Glare and Scare to Death, you gain these feats.
+
+Crushing Grab
+Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully Grapple a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.
+
+Elbow Breaker
+Requirements You have a creature grabbed or restrained. You bend your opponent's body or limbs into agonizing positions that make it difficult for them to maintain their grip. Make an unarmed melee Strike against the creature you have grabbed or restrained. This Strike has the following effects in addition to its usual effects.
+Critical Success You knock one held item out of the creature's grasp. It falls to the ground in the creature's space.
+Success You weaken your opponent's grasp on one held item. Until the start of that creature's turn, attempts to Disarm the opponent of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item.
+
+Water Sprint
+Experience and training have taught you that water has just enough surface tension for a master sprinter to traverse the surface. When you Stride in a straight line, if you move at least half your Speed over ground, you can move any amount of the remaining distance across a level body of water. If you don't end your Stride on solid ground, you fall into the water.
+If you're legendary in Athletics, as long as you start on solid ground, any part of your Stride can cross the water's surface, even if you aren't moving a straight line, though you still fall into the water if you don't end your movement on solid ground.
+
+Juggernaut
+Your body is accustomed to physical hardship and resistant to ailments. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
+
+Animal Instinct Specialization Ability
+Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal’s unarmed attacks. The frog’s tongue attack and deer’s antler attack gain reach 10 feet. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal’s unarmed attacks.
+
+Weapon Specialization
+Your rage helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you’re a master, and 4 if you’re legendary. You gain your instinct’s specialization ability.
+
+Say that Again!
+Trigger An opponent gets a critical failure when attempting to Demoralize you or Lie to you.
+The world is full of obnoxious weasels who think they can pull one over on you - put them in their place! When an adjacent creature attempts to Lie to you or to Demoralize you and gets a critical failure on the roll, you can use your reaction to make a Shove attempt against that opponent. If combat results, you can roll Intimidation for your initiative check.
+
+Attack of Opportunity
+Trigger A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it’s using.
+You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.
+
+Brutality
+Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. While raging, you gain access to the critical specialization effects for melee weapons and unarmed attacks.
+
+Defy Death
+You're exceptionally difficult to kill. The DC of your recovery checks is equal to 9 + your dying value, or 8 + your dying value if you have the Toughness general feat. In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as raise dead or the resurrect ritual), you don't suffer that condition.
+
+Raging Athlete
+Physical obstacles can’t hold back your fury. While you are raging, you gain a climb Speed and swim Speed equal to your land Speed and the DC of High Jumps and Long Jumps decreases by 10. Your distance for a vertical Leap increases to 5 feet vertically, and your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet and to 20 feet if your Speed is at least 30 feet.
+
+Godless Healing
+You recover an additional 5 Hit Points from a successful attempt to Treat your Wounds or use Battle Medicine on you. After you or an ally use Battle Medicine on you, you become temporarily immune to that Battle Medicine for only 1 hour, instead of 1 day.
+
+Battle Medicine
+You can patch up yourself or an adjacent ally, even in combat. Attempt a Medicine check with the same DC as for Treat Wounds, and restore a corresponding amount of Hit Points; this does not remove the wounded condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then temporarily immune to your Battle Medicine for 1 day.
+
+Wrestler Dedication
+Your training in the wrestling arts has made you particularly adept at moving, striking, and grappling while unencumbered. You become an expert in Athletics and gain the Titan Wrestler skill feat. You don't take the –2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. In addition, you gain a +2 circumstance bonus to your Fortitude DC when resisting an opponent's attempts to Grapple you or Swallow you Whole.
+
+Free Feat: Titan Wrestler
+You can attempt to Disarm, Grapple, Shove, or Trip creatures up to two sizes larger than you, or up to three sizes larger than you if you’re legendary in Athletics.
+
+Rage
+Requirements You aren’t fatigued or raging.
+You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall unconscious, whichever comes first. You can’t voluntarily stop raging. While you are raging:
+You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.
+You take a –1 penalty to AC.
+You can’t use actions with the concentrate trait unless they also have the rage trait. You can Seek while raging.
+After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can’t Rage again for 1 minute.
+
+Animal Instinct
+The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an animal from Table 3–3: Animal Instincts that best matches your chosen animal.
+Anathema
+Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging.
+Bestial Rage (Instinct Ability)
+When you Rage, you gain your chosen animal’s unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on Table 3–3: Animal Instincts. These attacks are in the brawling group. Your Rage action gains the morph, primal, and transmutation traits.
+Specialization Ability (Level 7)
+Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal’s unarmed attacks. The frog’s tongue attack and deer’s antler attack gain reach 10 feet. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal’s unarmed attacks.
+Raging Resistance (Level 9)
+You resist piercing and slashing damage.
+
+Orc Ferocity
+Frequency once per day
+Trigger You would be reduced to 0 Hit Points but not immediately killed.
+Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1.
+
+
